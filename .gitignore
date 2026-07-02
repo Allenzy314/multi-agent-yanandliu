@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Machine-specific dataset symlink (points to a local absolute path)
+/flare_dataset
+
+# Data / large artifacts
+*.nii
+*.nii.gz
+*.npz
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
