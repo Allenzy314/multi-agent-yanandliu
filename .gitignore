@@ -17,3 +17,11 @@ venv/
 .DS_Store
 .idea/
 .vscode/
+
+# Claude Code runtime artifacts
+.claude/
+
+# Oracle-agent prediction / eval outputs
+predictions/
+preds_*/
+outputs/
